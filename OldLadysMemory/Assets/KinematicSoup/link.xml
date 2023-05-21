@@ -1,0 +1,6 @@
+<linker>
+    <assembly fullname="KSCommon" preserve="all" />
+    <assembly fullname="KSCommonReactor" preserve="all" />
+    <assembly fullname="KSReactor" preserve="all" ignoreIfMissing="1"/>
+    <assembly fullname="KSReactorServer" preserve="all" ignoreIfMissing="1"/>
+</linker>
