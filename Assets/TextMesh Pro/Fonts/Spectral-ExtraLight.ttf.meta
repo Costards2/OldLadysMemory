@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4db497aeadc072f45b8d21258da4f1e7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Spectral ExtraLight
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 781c8c1e92ffd9241bc7428a9308a162, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

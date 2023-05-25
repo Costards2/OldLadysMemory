@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8fb88ec38734f6549ab7cd429ce8207a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Spectral Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 2f3dc69d92dd6434a992a2901fbb0205, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
