@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -19,7 +19,12 @@ public class MenuManager : MonoBehaviour
 
     public void Receitas()
     {
-    SceneManager.LoadScene("Cozinha");
+        SceneManager.LoadScene("Cozinha");
+    }
+
+    public void PreCafe()
+    {
+        SceneManager.LoadScene("PréCafe");
     }
 
     public void Flores()
